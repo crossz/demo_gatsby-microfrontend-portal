@@ -26,3 +26,5 @@ To get the info about current Workspace
 yarn workspaces info
 ```
 
+## Reference:
+https://www.youtube.com/watch?v=0Ta-awtLZTs&list=FLkbjUaRW6A-Z38GRUW3eg-w&index=7
