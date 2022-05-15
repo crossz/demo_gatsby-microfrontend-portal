@@ -18,9 +18,18 @@ export const NavBar = () => {
             />
           </Link>
         </div>
+        
         <div className="nav-bar__tabs">
           <Link
-            to="/profile"
+            to="/app/dashboard"
+            
+            className="nav-bar__tab"
+            
+          >
+            theme1
+          </Link>
+          <Link
+            to="/app/profile"
             
             className="nav-bar__tab"
             

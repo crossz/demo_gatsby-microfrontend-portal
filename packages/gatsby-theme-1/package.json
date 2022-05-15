@@ -9,6 +9,7 @@
     "react-dom": "^18.1.0"
   },
   "dependencies": {
+    "gatsby": "^4.13.1",
     "gatsby-plugin-create-client-paths": "^4.9.0",
     "gatsby-plugin-page-creator": "^4.13.0"
   }
