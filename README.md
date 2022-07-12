@@ -26,5 +26,12 @@ To get the info about current Workspace
 yarn workspaces info
 ```
 
+## TODO
+
+- [ ] external-api page 的 reload 后保持登录状态
+- [ ] theme1 page 的 reload 后保持登录状态
+
+
+
 ## Reference:
 https://www.youtube.com/watch?v=0Ta-awtLZTs&list=FLkbjUaRW6A-Z38GRUW3eg-w&index=7

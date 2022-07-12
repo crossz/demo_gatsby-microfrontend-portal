@@ -21,6 +21,7 @@
   },
   "scripts": {
     "develop": "gatsby develop -p 4040",
+    "build": "gatsby build",
     "clean": "gatsby clean"
   },
   "devDependencies": {
