@@ -1,5 +1,5 @@
 import React from "react";
-import { useAuth0 } from '@auth0/auth0-react';
+import { useAuth0, withAuthenticationRequired } from '@auth0/auth0-react';
 import { NavBar } from "./nav-bar";
 import { Loader } from "./loader";
 import { Footer } from "./footer";
@@ -27,4 +27,4 @@ const Layout = ({ children }) => {
   )
 };
 
-export default Layout;
+export default withAuthenticationRequired(Layout);
